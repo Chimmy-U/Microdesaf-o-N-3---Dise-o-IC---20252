@@ -1,0 +1,13 @@
+config_sum.json
+config_div.json
+config_mul.json
+test_bfloat16_spi_top.vcd
+test_bfloat16_spi_top.vvp
+runs/RUN_2025-11-20_20-33-13/*
+!runs/RUN_2025-11-20_20-33-13/final/
+!runs/RUN_2025-11-20_20-33-13/55*/
+!error.log
+!flow.log
+!resolved.json
+!warning.log
+Makefile
