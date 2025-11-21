@@ -26,9 +26,6 @@ El diseño se basa en módulos Verilog reutilizables para las unidades aritméti
 - Falta verificación completa de casos excepcionales (infinitos, NaN, etc.) en todas las operaciones.
 - Faltan simulaciones post-layout.
 
-## Simulaciones
-Se realizaron simulaciones comportamentales con testbenches en Verilog. Los resultados muestran tiempos de ejecución variables según la operación (ej. división requiere más ciclos).
-
 ## Caracterización
 - **Área**: El área del die es de 257,748 μm².
 - **Temporización**: Período de reloj de 6.667 ns, con slack positivo en STA post-PnR.
@@ -47,10 +44,12 @@ Este diseño es ideal para:
 - **Educación**: Demostrar diseño de chips ASIC con aritmética personalizada
 
 
-UNIVERSIDAD DEL QUINDÍO
-FACULTAD DE INGENIERÍA
-PROGRAMA DE INGENIERIA ELECTRÓNICA
-ELECTIVA- DISEÑO DE CIRCUITOS INTEGRADOS DIGITALES
+## Proyecto Universitario
 
-Alexander Vera Tasamá
-Jorge Iván Marín Hurtado
+*Este proyecto es parte del curso **ELECTIVA - DISEÑO DE CIRCUITOS INTEGRADOS DIGITALES***, en la **Facultad de Ingeniería**, **Programa de Ingeniería Electrónica** de la **Universidad del Quindío**.
+
+---
+
+**Agradecimientos a los Profesores:**  
+- Alexander Vera Tasamá  
+- Jorge Iván Marín Hurtado
